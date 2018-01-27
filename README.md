@@ -1,6 +1,6 @@
 # A list of Level Set codes!
 # How to use
-    * Level-Set-01:
+> Level-Set-01:
     For 2D demo, run from inside Matlab:
     >> run
     Select rectangular region (left click top left, drag and release at bottom right)
